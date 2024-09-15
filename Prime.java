@@ -13,7 +13,6 @@ public class Prime{
                 isPrimeCnt++;
             }
         }
-          System.out.println(isPrimeCnt);
 
         if(isPrimeCnt==1){
             System.out.println(number+" Is prime");
